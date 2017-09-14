@@ -1,6 +1,9 @@
 //
 // Created by lyf on 2017/9/14.
 //
+/**
+ * 滴滴秋招题目，给出一个数组，要求将数组中可以xor得0的数字分组，求得给定数组中可分出的最多的组数
+ */
 
 #include <iostream>
 #include <map>
